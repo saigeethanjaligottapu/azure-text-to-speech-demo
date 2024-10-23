@@ -1,6 +1,8 @@
 ## Azure AI Text-to-Speech (TTS)
 This is a simple node.js example of how to use the Azure AI to convert text to speech.
 
+https://github.com/user-attachments/assets/3ed3deb9-8f59-4934-ba02-f94e5f9cdf0b
+
 ### Prerequisites
 - Node.js v20+
 - Azure account. If you're new to Azure, get an Azure account for free at https://azure.com/free
