@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "microsoft-cognitiveservices-speech-sdk": "^1.40.0"
+  },
+  "type": "module",
+  "author": {
+    "name": "Wassim Chegham <github@wassim.dev>"
+  }
+}
